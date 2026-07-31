@@ -1,4 +1,4 @@
-# Halı Saha Analiz Platformu (Football Analytics Pipeline)
+# Football Analytics Pipeline
 
 Bu proje, bir futbol maçının video kayıtlarından oyuncuların hareketliliğini analiz eden uçtan uca (end-to-end) bir yazılımdır.
 
